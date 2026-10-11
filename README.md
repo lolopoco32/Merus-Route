@@ -10,4 +10,4 @@
 * **Volume Safety Checks:** Warns you if application or system volumes are not at 100% and provides a quick one-click reset to prevent unintended volume scaling.
 * **Multi-Language Support:** Fully translated and localized interface in Romanian, English, and Italian.
 * **Clean & Modern GUI:** Built with Python (Tkinter/ttk) featuring native system integration, custom iconography support, and an expandable real-time logging console.
-<img width="890" height="338" alt="1" src="https://github.com/user-attachments/assets/6014fb94-d46d-4338-8db9-9a7a9c5fe70f" />
+<img width="890" height="338" alt="Screenshot_20261011_193740-1" src="https://github.com/user-attachments/assets/2ffbad0b-a655-4789-86d6-733975083cde" />
